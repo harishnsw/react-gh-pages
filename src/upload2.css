@@ -1,0 +1,21 @@
+.one {
+  width: 10%;
+  height: 10%;
+}
+
+.btn {
+  font-family: monospace;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding: 0.8rem 2rem;
+  border-radius: 0.6rem;
+  border: 0.1rem;
+  background: #a7a9ad;
+  color: white;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
